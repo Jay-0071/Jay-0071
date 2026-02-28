@@ -54,10 +54,10 @@
   <a href="https://github.com/Jay-0071">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/">
+  <a href="https://www.linkedin.com/in/jayakrishnan-s-761603291/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="https://instagram.com/">
+  <a href="https://www.instagram.com/_.jayakrishnan_s._/">
     <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
 </p>
