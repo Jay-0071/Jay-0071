@@ -54,7 +54,12 @@
   <a href="https://github.com/Jay-0071">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
-  <!-- Add other social links (LinkedIn, Instagram) following the same format if you have them! -->
+  <a href="https://www.linkedin.com/in/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://instagram.com/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
 </p>
 
 ---
